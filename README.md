@@ -1,6 +1,6 @@
 # F2B
 
-F2B is a fail2ban mechanic for Node.js.
+F2B is a Fail2ban mechanic for Node.js.
 
 IP's, their attempts and timestamps are kept in memory for a quick response.
 

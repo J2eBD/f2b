@@ -1,0 +1,16 @@
+{
+  "name": "f2b",
+  "version": "1.0.0",
+  "description": "Fail2ban mechanic for Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J2eBD/f2b.git"
+  },
+  "author": "J2eBD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J2eBD/f2b/issues"
+  },
+  "homepage": "https://github.com/J2eBD/f2b#readme"
+}
