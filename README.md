@@ -52,7 +52,7 @@ Returns for example if the IP is not banned:
 
 Returns when ip is banned:
 {
-	"ok": false,				ip is banned
+	"ok": false,			ip is banned
 	"banTime": 1676969874598,	time when the ip was banned
 	"unbanTime": 1676969934598	time when the ip is unbanned
 }
@@ -77,7 +77,7 @@ Returns for example if the IP is not banned:
 
 Returns when ip is banned:
 {
-	"ok": false,				last attempt used up, ip is now banned
+	"ok": false,			last attempt used up, ip is now banned
 	"banTime": 1676969874598,	time when the ip was banned
 	"unbanTime": 1676969934598	time when the ip is unbanned
 }
